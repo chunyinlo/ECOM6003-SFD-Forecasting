@@ -1,0 +1,7 @@
+State,Selected_Model,AIC,BIC,Ljung_Box_p_lag8,Residual_Diagnostic,Selection_Source
+NSW,"ARIMA(0,1,0) + drift",2940.3658809684,2946.5036893728407,3.6022360511486395e-06,FLAG: residual autocorrelation remains,No low-order candidate passed Ljung-Box; lowest-BIC fallback (flagged)
+VIC,"ARIMA(0,1,0) + drift",2822.830770651654,2828.9685790560943,0.0001109377531677,FLAG: residual autocorrelation remains,No low-order candidate passed Ljung-Box; lowest-BIC fallback (flagged)
+QLD,"ARIMA(0,1,0) + drift",2731.482715668922,2737.6205240733625,0.1549546640185995,PASS,Ljung-Box pass first; lowest BIC among passing candidates
+SA,"ARIMA(1,1,0) + drift",2366.135696325084,2375.342408931745,0.8069376694094338,PASS,Ljung-Box pass first; lowest BIC among passing candidates
+WA,"ARIMA(3,1,0) + drift",2689.281096771042,2704.6256177821438,0.0973164026064995,PASS,Ljung-Box pass first; lowest BIC among passing candidates
+TAS,"ARIMA(0,1,1) + drift",2117.486448922554,2126.693161529214,0.9053534993266088,PASS,Ljung-Box pass first; lowest BIC among passing candidates

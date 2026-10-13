@@ -1,0 +1,5 @@
+Dataset,Period,Observations,Purpose
+Training,1985 Q3–2025 Q2,160,Estimate and select models
+Test,2025 Q3–2026 Q2,4,Out-of-sample 4-quarter forecast evaluation
+Full dataset,1985 Q3–2026 Q2,164,Re-estimate selected specifications
+Operational forecast,2026 Q3–2027 Q2,4,Future 4-quarter agency forecast
