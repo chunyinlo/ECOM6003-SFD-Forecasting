@@ -4,7 +4,7 @@ This repository contains the univariate forecasting work for ECOM6003 Project 2:
 
 ## Contents
 
-- `ECOM6003 Chun Yin LoUnivariate Forecasting GitHub.ipynb` – main analysis notebook
+- `ECOM6003 Chun Yin LoUnivariate Forecasting.ipynb` – main analysis notebook
 - `SFD_clean.xlsx` – quarterly SFD data for NSW, VIC, QLD, SA, WA and TAS
 - `outputs` – selected model results, forecast accuracy tables and figures
 
